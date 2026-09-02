@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @swathisuruli
-- 👀 I’m interested in technology...
-- 🌱 I’m currently learning Msc computer science ...
-- 💞️ I’m looking to collaborate on many tech peoples to enhance my skills...
-- 📫 How to reach me ...
+# Hi, I'm Swathi Suruli 👋
 
-<!---
-swathisuruli/swathisuruli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Full Stack Developer | MERN | AI Enthusiast 🚀
+
+I'm a passionate developer focused on building **full-stack web applications and AI-powered products**.
+
+- 💻 React | Node.js | Express.js | MongoDB
+- 🤖 OpenAI | Generative AI | Python
+- 📱 React Native
+- ☁️ AWS
+- 🎓 Completed **M.Sc. Computer Science**
+- 🤝 Open to collaboration and exciting tech projects
+
+### ⚡ Tech Stack
+
+`React`  `Node.js` `Express.js` `MongoDB`  `OpenAI` `React Native` `AWS` `Git`
+
+### 🚀 Currently
+
+Building AI-powered applications and exploring new technologies to turn ideas into real-world products.
+
+**Let's connect, collaborate & build 🚀**
