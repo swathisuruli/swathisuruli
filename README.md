@@ -5,7 +5,7 @@
 I'm a passionate developer focused on building **full-stack web applications and AI-powered products**.
 
 - 💻 React | Node.js | Express.js | MongoDB
-- 🤖 OpenAI | Generative AI | Python
+- 🤖 OpenAI
 - 📱 React Native
 - ☁️ AWS
 - 🎓 Completed **M.Sc. Computer Science**
